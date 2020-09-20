@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.455,D:\ISTU\Programming\Course Work\Task1.cpp=D:\ISTU\Programming\Course Work\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.749,=D:\ISTU\Programming\Course Work\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.058,D:\ISTU\Programming\Course Work\AddEdit.dfm=D:\ISTU\Programming\Course Work\Task1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.317,D:\ISTU\Programming\Course Work\TaskUnit.dfm=D:\ISTU\Programming\Course Work\Task.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.348,=C:\Users\Kamron\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.096,=D:\ISTU\Programming\Course Work\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.058,D:\ISTU\Programming\Course Work\AddEdit.cpp=D:\ISTU\Programming\Course Work\Task1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.017,D:\ISTU\Programming\Course Work\main.h=C:\Users\Kamron\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.111,=C:\Users\Kamron\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.511,D:\ISTU\Programming\Course Work\Task.cpp=D:\ISTU\Programming\Course Work\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.058,D:\ISTU\Programming\Course Work\AddEdit.h=D:\ISTU\Programming\Course Work\Task1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.511,D:\ISTU\Programming\Course Work\Task.dfm=D:\ISTU\Programming\Course Work\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.017,D:\ISTU\Programming\Course Work\main.dfm=C:\Users\Kamron\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.317,D:\ISTU\Programming\Course Work\TaskUnit.h=D:\ISTU\Programming\Course Work\Task.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.455,D:\ISTU\Programming\Course Work\Task1.h=D:\ISTU\Programming\Course Work\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.644,D:\ISTU\Programming\Course Work\Export.cbproj=C:\Users\Kamron\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.017,D:\ISTU\Programming\Course Work\main.cpp=C:\Users\Kamron\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.035,D:\ISTU\Programming\Course Work\Project2PCH1.h=C:\Users\Kamron\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.455,D:\ISTU\Programming\Course Work\Task1.dfm=D:\ISTU\Programming\Course Work\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.314,D:\ISTU\Programming\Course Work\ExportPCH1.h=D:\ISTU\Programming\Course Work\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.317,D:\ISTU\Programming\Course Work\TaskUnit.cpp=D:\ISTU\Programming\Course Work\Task.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.511,D:\ISTU\Programming\Course Work\Task.h=D:\ISTU\Programming\Course Work\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
